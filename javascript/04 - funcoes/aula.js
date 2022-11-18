@@ -13,8 +13,13 @@ function quadrado(valor){
 }
 
 teste();
-
 console.log(quadrado(10) , quadrado(2));
-
 sayMyName('Danilo')
 
+// Padrão de código
+
+function main(){
+    console.log('Programa principal');
+}
+
+main();
